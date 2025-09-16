@@ -1,0 +1,4133 @@
+[
+    {
+        "timestamp": "2025-09-16 08:25:44",
+        "category": "scissor",
+        "shapes": [
+            {
+                "name": "omniobject3d-scissor_004",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:16:10",
+        "category": "hairpin",
+        "shapes": [
+            {
+                "name": "omniobject3d-hairpin_001",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:28:10",
+        "category": "suitcase",
+        "shapes": [
+            {
+                "name": "omniobject3d-suitcase_003",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:27:29",
+        "category": "mangosteen",
+        "shapes": [
+            {
+                "name": "omniobject3d-mangosteen_011",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:16:32",
+        "category": "hammer",
+        "shapes": [
+            {
+                "name": "omniobject3d-hammer_011",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:23:15",
+        "category": "peach",
+        "shapes": [
+            {
+                "name": "omniobject3d-peach_007",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:08:53",
+        "category": "carrot",
+        "shapes": [
+            {
+                "name": "omniobject3d-carrot_017",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:21:05",
+        "category": "mooncake",
+        "shapes": [
+            {
+                "name": "omniobject3d-mooncake_020",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:07:31",
+        "category": "candy",
+        "shapes": [
+            {
+                "name": "omniobject3d-candy_040",
+                "rotation_matrix": [
+                    [
+                        6.123233995736766e-17,
+                        -6.123233995736766e-17,
+                        1.0
+                    ],
+                    [
+                        1.0,
+                        3.749399456654644e-33,
+                        -6.123233995736766e-17
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:06:35",
+        "category": "candle",
+        "shapes": [
+            {
+                "name": "omniobject3d-candle_009",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:32:10",
+        "category": "toy_train",
+        "shapes": [
+            {
+                "name": "omniobject3d-toy_train_057",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:28:16",
+        "category": "sweet_potato",
+        "shapes": [
+            {
+                "name": "omniobject3d-sweet_potato_023",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:10:34",
+        "category": "clock",
+        "shapes": [
+            {
+                "name": "omniobject3d-clock_027",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:23:40",
+        "category": "pie",
+        "shapes": [
+            {
+                "name": "omniobject3d-pie_032",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:22:03",
+        "category": "onion",
+        "shapes": [
+            {
+                "name": "omniobject3d-onion_009",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:31:51",
+        "category": "toy_motorcycle",
+        "shapes": [
+            {
+                "name": "omniobject3d-toy_motorcycle_032",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:06:18",
+        "category": "camera",
+        "shapes": [
+            {
+                "name": "real-camera_024",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:31:17",
+        "category": "toy_boat",
+        "shapes": [
+            {
+                "name": "omniobject3d-toy_boat_010",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:16:27",
+        "category": "hami_melon",
+        "shapes": [
+            {
+                "name": "omniobject3d-hami_melon_006",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:15:56",
+        "category": "guitar",
+        "shapes": [
+            {
+                "name": "omniobject3d-guitar_001",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:04:18",
+        "category": "box",
+        "shapes": [
+            {
+                "name": "omniobject3d-box_089",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:14:15",
+        "category": "flute",
+        "shapes": [
+            {
+                "name": "omniobject3d-flute_001",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:24:56",
+        "category": "pumpkin",
+        "shapes": [
+            {
+                "name": "omniobject3d-pumpkin_004",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:15:24",
+        "category": "frisbee",
+        "shapes": [
+            {
+                "name": "omniobject3d-frisbee_007",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:10:27",
+        "category": "chinese_chess",
+        "shapes": [
+            {
+                "name": "omniobject3d-chinese_chess_009",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:23:53",
+        "category": "pineapple",
+        "shapes": [
+            {
+                "name": "omniobject3d-pineapple_002",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:14:03",
+        "category": "flash_light",
+        "shapes": [
+            {
+                "name": "omniobject3d-flash_light_005",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:22:53",
+        "category": "pan",
+        "shapes": [
+            {
+                "name": "omniobject3d-pan_001",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:31:25",
+        "category": "toy_bus",
+        "shapes": [
+            {
+                "name": "omniobject3d-toy_bus_035",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:12:29",
+        "category": "egg",
+        "shapes": [
+            {
+                "name": "omniobject3d-egg_017",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:28:21",
+        "category": "sword_bean",
+        "shapes": [
+            {
+                "name": "omniobject3d-sword_bean_001",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:30:33",
+        "category": "timer",
+        "shapes": [
+            {
+                "name": "omniobject3d-timer_008",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:22:09",
+        "category": "orange",
+        "shapes": [
+            {
+                "name": "omniobject3d-orange_002",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:12:03",
+        "category": "drawing",
+        "shapes": [
+            {
+                "name": "omniobject3d-drawing_011",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:11:44",
+        "category": "doll",
+        "shapes": [
+            {
+                "name": "omniobject3d-doll_070",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:25:39",
+        "category": "sausage",
+        "shapes": [
+            {
+                "name": "omniobject3d-sausage_020",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:31:44",
+        "category": "toy_car",
+        "shapes": [
+            {
+                "name": "google_scan-toy_car_0858",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:23:47",
+        "category": "pillow",
+        "shapes": [
+            {
+                "name": "omniobject3d-pillow_012",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:17:18",
+        "category": "insole",
+        "shapes": [
+            {
+                "name": "omniobject3d-insole_012",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:18:43",
+        "category": "laundry_detergent",
+        "shapes": [
+            {
+                "name": "omniobject3d-laundry_detergent_003",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:12:23",
+        "category": "dustbin",
+        "shapes": [
+            {
+                "name": "omniobject3d-dustbin_014",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 07:59:18",
+        "category": "banana",
+        "shapes": [
+            {
+                "name": "omniobject3d-banana_001",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:30:56",
+        "category": "tooth_paste",
+        "shapes": [
+            {
+                "name": "omniobject3d-tooth_paste_036",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:26:40",
+        "category": "soap",
+        "shapes": [
+            {
+                "name": "omniobject3d-soap_017",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:27:36",
+        "category": "speaker",
+        "shapes": [
+            {
+                "name": "omniobject3d-speaker_003",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:15:31",
+        "category": "garage_kit",
+        "shapes": [
+            {
+                "name": "omniobject3d-garage_kit_004",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:05:52",
+        "category": "cabinet",
+        "shapes": [
+            {
+                "name": "omniobject3d-cabinet_001",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:12:41",
+        "category": "eraser",
+        "shapes": [
+            {
+                "name": "omniobject3d-eraser_006",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:25:24",
+        "category": "ricecooker",
+        "shapes": [
+            {
+                "name": "omniobject3d-ricecooker_001",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:18:36",
+        "category": "laptop",
+        "shapes": [
+            {
+                "name": "real-laptop_002",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:02:15",
+        "category": "belt",
+        "shapes": [
+            {
+                "name": "omniobject3d-belt_009",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:32:29",
+        "category": "vase",
+        "shapes": [
+            {
+                "name": "omniobject3d-vase_009",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:28:41",
+        "category": "tape_measure",
+        "shapes": [
+            {
+                "name": "omniobject3d-tape_measure_007",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:19:01",
+        "category": "lemon",
+        "shapes": [
+            {
+                "name": "omniobject3d-lemon_002",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:21:49",
+        "category": "mug",
+        "shapes": [
+            {
+                "name": "phocal-mug_011",
+                "rotation_matrix": [
+                    [
+                        6.123233995736766e-17,
+                        -6.123233995736766e-17,
+                        1.0
+                    ],
+                    [
+                        1.0,
+                        3.749399456654644e-33,
+                        -6.123233995736766e-17
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:19:09",
+        "category": "light",
+        "shapes": [
+            {
+                "name": "omniobject3d-light_024",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:13:57",
+        "category": "fire_extinguisher",
+        "shapes": [
+            {
+                "name": "omniobject3d-fire_extinguisher_010",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:32:23",
+        "category": "umbrella",
+        "shapes": [
+            {
+                "name": "omniobject3d-umbrella_004",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:24:23",
+        "category": "plug",
+        "shapes": [
+            {
+                "name": "omniobject3d-plug_001",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:13:49",
+        "category": "fan",
+        "shapes": [
+            {
+                "name": "omniobject3d-fan_004",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:30:39",
+        "category": "tissue",
+        "shapes": [
+            {
+                "name": "omniobject3d-tissue_028",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:30:09",
+        "category": "teddy_bear",
+        "shapes": [
+            {
+                "name": "omniobject3d-teddy_bear_009",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:30:44",
+        "category": "tomato",
+        "shapes": [
+            {
+                "name": "omniobject3d-tomato_014",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 07:58:21",
+        "category": "ball",
+        "shapes": [
+            {
+                "name": "omniobject3d-ball_022",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                ],
+                "is_identity": true
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:11:26",
+        "category": "dinosaur",
+        "shapes": [
+            {
+                "name": "omniobject3d-dinosaur_002",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:33:01",
+        "category": "watch",
+        "shapes": [
+            {
+                "name": "omniobject3d-watch_012",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:25:16",
+        "category": "remote_control",
+        "shapes": [
+            {
+                "name": "phocal-remote_control_016",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:14:22",
+        "category": "fork",
+        "shapes": [
+            {
+                "name": "phocal-fork_004",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:23:21",
+        "category": "pear",
+        "shapes": [
+            {
+                "name": "omniobject3d-pear_030",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:12:17",
+        "category": "dumpling",
+        "shapes": [
+            {
+                "name": "omniobject3d-dumpling_015",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:06:09",
+        "category": "calculator",
+        "shapes": [
+            {
+                "name": "omniobject3d-calculator_014",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:05:02",
+        "category": "bucket_noodle",
+        "shapes": [
+            {
+                "name": "omniobject3d-bucket_noodle_012",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:24:07",
+        "category": "pizza",
+        "shapes": [
+            {
+                "name": "omniobject3d-pizza_016",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:10:39",
+        "category": "coconut",
+        "shapes": [
+            {
+                "name": "omniobject3d-coconut_019",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:20:41",
+        "category": "mango",
+        "shapes": [
+            {
+                "name": "omniobject3d-mango_006",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        -1.8369701987210297e-16,
+                        1.0
+                    ],
+                    [
+                        0.0,
+                        -1.0,
+                        -1.8369701987210297e-16
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:22:16",
+        "category": "pad",
+        "shapes": [
+            {
+                "name": "omniobject3d-pad_009",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:20:11",
+        "category": "corn",
+        "shapes": [
+            {
+                "name": "omniobject3d-corn_004",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:32:34",
+        "category": "waffle",
+        "shapes": [
+            {
+                "name": "omniobject3d-waffle_018",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:03:51",
+        "category": "bottle",
+        "shapes": [
+            {
+                "name": "omniobject3d-bottle_061",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:09:20",
+        "category": "chair",
+        "shapes": [
+            {
+                "name": "omniobject3d-chair_023",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:17:57",
+        "category": "keyboard",
+        "shapes": [
+            {
+                "name": "omniobject3d-keyboard_016",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:23:33",
+        "category": "picnic_basket",
+        "shapes": [
+            {
+                "name": "omniobject3d-picnic_basket_008",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 07:58:00",
+        "category": "backpack",
+        "shapes": [
+            {
+                "name": "omniobject3d-backpack_002",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:33:13",
+        "category": "whistle",
+        "shapes": [
+            {
+                "name": "omniobject3d-whistle_013",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:02:59",
+        "category": "book",
+        "shapes": [
+            {
+                "name": "omniobject3d-book_021",
+                "rotation_matrix": [
+                    [
+                        6.123233995736766e-17,
+                        1.0,
+                        6.123233995736766e-17
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        -1.0,
+                        6.123233995736766e-17,
+                        3.749399456654644e-33
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:13:31",
+        "category": "facial_cream",
+        "shapes": [
+            {
+                "name": "omniobject3d-facial_cream_010",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:26:33",
+        "category": "shrimp",
+        "shapes": [
+            {
+                "name": "omniobject3d-shrimp_014",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:16:01",
+        "category": "hair_dryer",
+        "shapes": [
+            {
+                "name": "omniobject3d-hair_dryer_031",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:04:05",
+        "category": "bowl",
+        "shapes": [
+            {
+                "name": "omniobject3d-bowl_010",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:23:28",
+        "category": "pen",
+        "shapes": [
+            {
+                "name": "omniobject3d-pen_005",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:30:02",
+        "category": "teapot",
+        "shapes": [
+            {
+                "name": "phocal-teapot_003",
+                "rotation_matrix": [
+                    [
+                        6.123233995736766e-17,
+                        -6.123233995736766e-17,
+                        1.0
+                    ],
+                    [
+                        1.0,
+                        3.749399456654644e-33,
+                        -6.123233995736766e-17
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:05:13",
+        "category": "bumbag",
+        "shapes": [
+            {
+                "name": "omniobject3d-bumbag_006",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:06:28",
+        "category": "can",
+        "shapes": [
+            {
+                "name": "omniobject3d-can_002",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:18:05",
+        "category": "knife",
+        "shapes": [
+            {
+                "name": "omniobject3d-knife_005",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:28:04",
+        "category": "stool",
+        "shapes": [
+            {
+                "name": "omniobject3d-stool_002",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:21:12",
+        "category": "mouse",
+        "shapes": [
+            {
+                "name": "omniobject3d-mouse_005",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:24:31",
+        "category": "pomegranate",
+        "shapes": [
+            {
+                "name": "omniobject3d-pomegranate_008",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:17:07",
+        "category": "hot_dog",
+        "shapes": [
+            {
+                "name": "omniobject3d-hot_dog_077",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:28:27",
+        "category": "table",
+        "shapes": [
+            {
+                "name": "omniobject3d-table_026",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 07:58:50",
+        "category": "bamboo_shoots",
+        "shapes": [
+            {
+                "name": "omniobject3d-bamboo_shoots_023",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:23:58",
+        "category": "pitaya",
+        "shapes": [
+            {
+                "name": "omniobject3d-pitaya_034",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:14:09",
+        "category": "flower_pot",
+        "shapes": [
+            {
+                "name": "omniobject3d-flower_pot_016",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:32:42",
+        "category": "wallet",
+        "shapes": [
+            {
+                "name": "omniobject3d-wallet_049",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:25:05",
+        "category": "razor",
+        "shapes": [
+            {
+                "name": "omniobject3d-razor_010",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:15:38",
+        "category": "garlic",
+        "shapes": [
+            {
+                "name": "omniobject3d-garlic_015",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:16:56",
+        "category": "hat",
+        "shapes": [
+            {
+                "name": "omniobject3d-hat_004",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:04:32",
+        "category": "boxed_beverage",
+        "shapes": [
+            {
+                "name": "omniobject3d-boxed_beverage_001",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:11:01",
+        "category": "cucumber",
+        "shapes": [
+            {
+                "name": "omniobject3d-cucumber_043",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:16:39",
+        "category": "hand_cream",
+        "shapes": [
+            {
+                "name": "omniobject3d-hand_cream_030",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:20:27",
+        "category": "lotus_root",
+        "shapes": [
+            {
+                "name": "omniobject3d-lotus_root_048",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:30:51",
+        "category": "tooth_brush",
+        "shapes": [
+            {
+                "name": "omniobject3d-tooth_brush_005",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:10:50",
+        "category": "conch",
+        "shapes": [
+            {
+                "name": "omniobject3d-conch_012",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:20:19",
+        "category": "lipstick",
+        "shapes": [
+            {
+                "name": "omniobject3d-lipstick_009",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:25:11",
+        "category": "red_wine_glass",
+        "shapes": [
+            {
+                "name": "phocal-red_wine_glass_002",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:16:21",
+        "category": "hamburger",
+        "shapes": [
+            {
+                "name": "omniobject3d-hamburger_008",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:30:19",
+        "category": "thermos",
+        "shapes": [
+            {
+                "name": "omniobject3d-thermos_003",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:11:36",
+        "category": "dish",
+        "shapes": [
+            {
+                "name": "google_scan-dish_0508",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:24:40",
+        "category": "power_strip",
+        "shapes": [
+            {
+                "name": "omniobject3d-power_strip_009",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:31:11",
+        "category": "toy_animals",
+        "shapes": [
+            {
+                "name": "omniobject3d-toy_animals_037",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:27:43",
+        "category": "spoon",
+        "shapes": [
+            {
+                "name": "phocal-spoon_002",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:20:49",
+        "category": "medicine_bottle",
+        "shapes": [
+            {
+                "name": "omniobject3d-medicine_bottle_035",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:15:43",
+        "category": "glasses",
+        "shapes": [
+            {
+                "name": "omniobject3d-glasses_008",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:12:09",
+        "category": "dumbbell",
+        "shapes": [
+            {
+                "name": "omniobject3d-dumbbell_009",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:11:09",
+        "category": "cup",
+        "shapes": [
+            {
+                "name": "omniobject3d-cup_003",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:19:32",
+        "category": "magnet",
+        "shapes": [
+            {
+                "name": "omniobject3d-magnet_004",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:23:09",
+        "category": "pastry",
+        "shapes": [
+            {
+                "name": "omniobject3d-pastry_004",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:11:52",
+        "category": "donut",
+        "shapes": [
+            {
+                "name": "omniobject3d-donut_045",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:27:54",
+        "category": "starfish",
+        "shapes": [
+            {
+                "name": "omniobject3d-starfish_016",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:17:01",
+        "category": "helmet",
+        "shapes": [
+            {
+                "name": "omniobject3d-helmet_006",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:01:52",
+        "category": "battery",
+        "shapes": [
+            {
+                "name": "omniobject3d-battery_001",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:25:31",
+        "category": "rubik_cube",
+        "shapes": [
+            {
+                "name": "omniobject3d-rubik_cube_028",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:10:11",
+        "category": "chicken_leg",
+        "shapes": [
+            {
+                "name": "omniobject3d-chicken_leg_005",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:22:59",
+        "category": "pancake",
+        "shapes": [
+            {
+                "name": "omniobject3d-pancake_001",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:32:03",
+        "category": "toy_plant",
+        "shapes": [
+            {
+                "name": "omniobject3d-toy_plant_001",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:28:31",
+        "category": "table_tennis_bat",
+        "shapes": [
+            {
+                "name": "omniobject3d-table_tennis_bat_014",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:26:47",
+        "category": "spanner",
+        "shapes": [
+            {
+                "name": "omniobject3d-spanner_002",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:15:49",
+        "category": "glasses_case",
+        "shapes": [
+            {
+                "name": "omniobject3d-glasses_case_036",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:20:58",
+        "category": "microwaveoven",
+        "shapes": [
+            {
+                "name": "omniobject3d-microwaveoven_003",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:16:49",
+        "category": "handbag",
+        "shapes": [
+            {
+                "name": "omniobject3d-handbag_030",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:24:51",
+        "category": "projector",
+        "shapes": [
+            {
+                "name": "omniobject3d-projector_008",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:06:00",
+        "category": "cake",
+        "shapes": [
+            {
+                "name": "omniobject3d-cake_008",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:33:07",
+        "category": "watermelon",
+        "shapes": [
+            {
+                "name": "omniobject3d-watermelon_001",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:04:54",
+        "category": "brush",
+        "shapes": [
+            {
+                "name": "omniobject3d-brush_005",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:12:35",
+        "category": "egg_tart",
+        "shapes": [
+            {
+                "name": "omniobject3d-egg_tart_001",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:10:20",
+        "category": "chili",
+        "shapes": [
+            {
+                "name": "omniobject3d-chili_017",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:31:57",
+        "category": "toy_plane",
+        "shapes": [
+            {
+                "name": "omniobject3d-toy_plane_029",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:32:16",
+        "category": "toy_truck",
+        "shapes": [
+            {
+                "name": "omniobject3d-toy_truck_070",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:26:28",
+        "category": "shoe",
+        "shapes": [
+            {
+                "name": "google_scan-shoe_0317",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:11:16",
+        "category": "dice",
+        "shapes": [
+            {
+                "name": "omniobject3d-dice_008",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:26:18",
+        "category": "shampoo",
+        "shapes": [
+            {
+                "name": "omniobject3d-shampoo_032",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:04:43",
+        "category": "bread",
+        "shapes": [
+            {
+                "name": "omniobject3d-bread_044",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:09:55",
+        "category": "chess",
+        "shapes": [
+            {
+                "name": "omniobject3d-chess_028",
+                "rotation_matrix": [
+                    [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        6.123233995736766e-17,
+                        -1.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-16 08:17:41",
+        "category": "kettle",
+        "shapes": [
+            {
+                "name": "omniobject3d-kettle_017",
+                "rotation_matrix": [
+                    [
+                        6.123233995736766e-17,
+                        -6.123233995736766e-17,
+                        1.0
+                    ],
+                    [
+                        1.0,
+                        3.749399456654644e-33,
+                        -6.123233995736766e-17
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        6.123233995736766e-17
+                    ]
+                ],
+                "is_identity": false
+            }
+        ]
+    }
+]
