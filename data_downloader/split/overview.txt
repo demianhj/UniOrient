@@ -1,0 +1,4 @@
+Saved Set 1 → set_1.json: 117 categories, total instances = 26685
+Saved Set 2 → set_2.json: 119 categories, total instances = 26705
+Saved Set 3 → set_3.json: 120 categories, total instances = 26705
+Saved Set 4 → set_4.json: 118 categories, total instances = 26684
