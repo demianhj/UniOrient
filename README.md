@@ -2,8 +2,8 @@
 shape_canonicalization_gui_tool
 
 <!-- // how to add picture here? (/home/lei/Documents/Dataset/Cannonicalization_stats/UniOrient/pictures/GUI_pic.png) -->
-![GUI Tool Screenshot](./pictures/GUI_pic.png)
-
+<!-- ![GUI Tool Screenshot](./pictures/GUI_pic.png) -->
+![GUI Tool Screenshot](./pictures/demo_cups.png)
 ## conda env configure
 
 ## splitted categories: data_downloader/split

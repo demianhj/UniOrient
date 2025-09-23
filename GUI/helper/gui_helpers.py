@@ -284,9 +284,6 @@ class ShapeProcessor:
                 
                 with h5py.File(h5_file_path, 'r') as h5_file:
 
-                    # print(list(h5_file.keys()))# ['armor_6524']
-                    # exit(0)
-                    
                     object_data = h5_file[object_name]
                    
                     if 'feature_points' in object_data:

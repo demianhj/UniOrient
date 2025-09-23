@@ -56,7 +56,6 @@ class ShapeCanonicalizeGUI:
 
         # Build UI
         # self._build_category_selector()
-        
         self.setup_ui()
         
 
