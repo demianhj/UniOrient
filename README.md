@@ -26,8 +26,8 @@ We introduce **UniOrient**, a substantial **canonicalized 3D shape** dataset fea
 
 ## 🔧 Features
 - Semi‑automatic **shape canonicalization** with interactive controls
-- **RGB‑D fusion** support (batched; configurable `batch_size`)
-- Dataset helpers: **download**, **unzip**, **split**
+- **RGB‑D Rendering** supported
+- Dataset helpers: **semantics-consistently oriented**
 - Designed for large‑scale processing and reproducibility
 
 ---
@@ -95,7 +95,7 @@ python GUI/shape_gui.py
 
 ### Dataset Overview
 UniOrient aggregates canonicalized shapes with **language** and **image** annotations. Current data sources include:
-1. **Intersection between Trellis and G‑buffer**
+1. **Intersection between Trellis 500k and G‑buffer**
 2. **Omni6DPose**
 3. **Omni6DXL**
 
@@ -122,8 +122,8 @@ Predefined splits live in `data_downloader/split/`. Customize or add new splits 
 
 ---
 
-## 📣 Citation
-If you use UniOrient or the GUI tool in your research, please cite this repository (bibtex to be added upon paper release).
+<!-- ## 📣 Citation
+If you use UniOrient or the GUI tool in your research, please cite this repository (bibtex to be added upon paper release). -->
 
 ---
 
