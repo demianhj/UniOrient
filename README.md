@@ -128,9 +128,11 @@ If you use UniOrient or the GUI tool in your research, please cite this reposito
 ---
 
 ## 📮 Contact
-- Add primary maintainer info and email here.
+Questions or feedback? We’re happy to help.
 
----
+- **Open an issue on GitHub** and we’ll respond as soon as we can.
+- For feature requests or general discussion, **start a Discussion**.
+
 
 ## 📝 License
 This project is released under the **MIT License**. See [LICENSE](LICENSE) for details.
