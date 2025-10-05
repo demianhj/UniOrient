@@ -116,9 +116,9 @@ Predefined splits live in `data_downloader/split/`. Customize or add new splits 
 ---
 
 ## 🧭 Roadmap / TODO
-- [ ] Release baseline **shape generation** for canonical shape generation
-- [ ] Add more convenient presets and templates for GUI batch processing
-- [ ] Publish dataset download links and checksums
+- [ ] Release GUI tools
+- [ ] Publish dataset download links 
+- [ ] Release baseline **shape generation** for canonical shape generation 
 
 ---
 
