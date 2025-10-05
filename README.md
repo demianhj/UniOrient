@@ -1,6 +1,5 @@
-# shape_canonicalization_gui_tool
 
-**UniOrient: Canonicalized 3D Shape Dataset & GUI Tool**
+**UniOrient: Large Scale Canonicalized 3D Shape Dataset & GUI Tool**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)]()
