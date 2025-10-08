@@ -20,7 +20,7 @@ We introduce **UniOrient**, a substantial **canonicalized 3D shape** dataset fea
 
 ## 🖼️ GUI Preview
 <!-- How to add your own picture: place it at ./pictures/GUI_pic.png and update the path below. -->
-![GUI Tool Screenshot](./pictures/demo_cups.png)
+![GUI Tool Screenshot](./pictures/gui_demo.gif)
 
 ---
 
